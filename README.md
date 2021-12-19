@@ -21,7 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Anjos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #
-### Tecnologias que uso no dia a dia
+### Ferramentas que uso no dia a dia
 #### My Skills
 
 <div style="display : inline block"><br/>
