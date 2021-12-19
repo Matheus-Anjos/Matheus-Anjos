@@ -3,7 +3,7 @@
 
 💻📚 Futuro Desenvolvedor Java Junior Full Stack, participando do bootcamp da Generation Brasil <br>
 🌎📈 + 🖥️ = ❤️ Estudante de Ciências Econômicas, paixão que divido com a programação. <br>
-🕵🏽‍♂️ Sempre em busca de conhecer coisas novas e focado na resolução de problemas <br>
+🕵🏽‍♂️ Sempre em busca de aprender coisas novas e focado na resolução de problemas <br>
 🤓 gosto de hqs, livros e filmes relacionados ao mundo geek, e escutar musicas dos anos 80 nas horas vagas. <br>
 😄 fique a vontade para ver meus projetos
 
