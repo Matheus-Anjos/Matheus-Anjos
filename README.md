@@ -12,8 +12,7 @@
 #### Contact
 [![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusanjoslink)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/270476/matheus-anjos?tab=profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://matheus.mfa10@gmail.com)
-
+<a href="mailto:matheus.mfa10@gmail.com?subject=Questions"> <img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:matheus.mfa10@gmail.com"></a>
 
 
 #
