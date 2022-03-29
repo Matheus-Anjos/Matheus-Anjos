@@ -35,5 +35,5 @@
 #
 ### Let's code
 <div align="center">
-[![Top Langs](https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)](https://github.com/anuraghazra/github-readme-stats)
+ <img align="center" alt="CAT CODING" src="https://i.imgur.com/gDsVqmh.gif" width="80px" height="80px"> 
 </div>
