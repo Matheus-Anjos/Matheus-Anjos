@@ -23,7 +23,7 @@
 #
 #### My Skills
 <div style="display : inline block"><br/>
- <img alt="JAVA" src="https://i.imgur.com/9iLfySa.png" width="60px" height="60px"> 
+ <img alt="JAVA" src="https://i.imgur.com/9iLfySa.png" width="75px" height="75px"> 
 <img alt="SQL" src="https://i.imgur.com/fS6cH6v.png" height="50px">
  <img align="center"alt="VBA" src="https://i.imgur.com/5YaSXWM.png"  width="70px" height="70px"  >
 </div>
