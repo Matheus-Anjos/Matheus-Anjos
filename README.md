@@ -3,7 +3,7 @@
 
 
  <img align="center" alt="JAVA" src="
-https://i.imgur.com/Xsb9kQg.gifv" width="80px" height="80px"> 
+https://i.imgur.com/Xsb9kQg.gif" width="80px" height="80px"> 
 
 
 #
