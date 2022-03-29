@@ -7,9 +7,11 @@
 
 #
 #### Contact
+<div align="center">
 <a href="https://www.linkedin.com/in/matheusanjoslink"> <img  alt="Gmail" src="https://i.imgur.com/QfUJdBq.png" width="80px" height="80px"></a>
-<a href="mailto:matheus.mfa10@gmail.com?subject=Questions"> <img  alt="Gmail" src="https://i.imgur.com/2R7sjh9.png" width="80px" height="80px" href="mailto:matheus.mfa10@gmail.com"></a>
 
+<a href="mailto:matheus.mfa10@gmail.com?subject=Questions"> <img  alt="Gmail" src="https://i.imgur.com/2R7sjh9.png" width="80px" height="80px" href="mailto:matheus.mfa10@gmail.com"></a>
+</div>
 
 #
 <div align="center">
