@@ -1,12 +1,11 @@
 ###  Olá, como está ? Sou Matheus Anjos 😃🖐️
 ##### Hi, How are you? I´m Matheus Anjos
 
-
+<div align="center">
  <img align="center" alt="JAVA" src="https://i.imgur.com/Xsb9kQg.gif" width="900px" height="500px"> 
-
+</div>
 
 #
-### Contato
 #### Contact
 [![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusanjoslink)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/270476/matheus-anjos?tab=profile)
@@ -28,8 +27,6 @@
 <img align="center"alt="CSS3" src="https://i.imgur.com/E9Yh5Kl.png"  width="50px" height="50px" >
 <img align="center" alt="Javascript" src="https://i.imgur.com/6QwTjRe.png"  width="50px" height="50px" >
 </div>
-
-
 
 #
 #
