@@ -25,7 +25,7 @@
 #### My Skills
 
 <div style="display : inline block"><br/>
-<img align="center"alt="HTML5" src="https://i.imgur.com/s5fE2Lh.png" >
+<img align="center"alt="HTML5" src="https://i.imgur.com/s5fE2Lh.png" width="30px" height="30px">
 <img align="center"alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
 <img align="center"alt="VBA" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" >
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
