@@ -24,7 +24,7 @@
 #### My Skills
 
 <div style="display : inline block"><br/>
- <img alt="JAVA" src="https://i.imgur.com/NrqjtVq.png" width="50px" height="50px" margin-top:"15px"> 
+ <img alt="JAVA" src="https://i.imgur.com/9iLfySa.png" width="50px" height="50px" margin-top:"15px"> 
 <img align="center"alt="HTML5" src="https://i.imgur.com/s5fE2Lh.png" width="50px" height="50px">
 <img align="center"alt="CSS3" src="https://i.imgur.com/E9Yh5Kl.png"  width="50px" height="50px" >
 <img align="center"alt="VBA" src="https://i.imgur.com/JRlJbE6.png" width="50px" height="50px"  >
