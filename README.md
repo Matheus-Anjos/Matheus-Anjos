@@ -2,7 +2,7 @@
 ##### Hi, How are you? I´m Matheus Anjos
 
 
- <img align="center" alt="JAVA" src="https://i.imgur.com/Xsb9kQg.gif" width="80px" height="80px"> 
+ <img align="center" alt="JAVA" src="https://i.imgur.com/Xsb9kQg.gif" width="500px" height="500px"> 
 
 
 #
