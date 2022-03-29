@@ -22,6 +22,10 @@
 
 #
 #### My Skills
+<div style="display : inline block"><br/>
+ <img alt="JAVA" src="https://i.imgur.com/9iLfySa.png" width="50px" height="50px"> 
+<img alt="SQL" src="https://i.imgur.com/25mmVek.png" width="50px" height="50px" margin-top:"15px">
+</div>
 
 <div style="display : inline block"><br/>
 <img align="center"alt="HTML5" src="https://i.imgur.com/s5fE2Lh.png" width="50px" height="50px">
@@ -30,10 +34,7 @@
 <img align="center" alt="Javascript" src="https://i.imgur.com/6QwTjRe.png"  width="50px" height="50px" >
 </div>
 
-<div style="display : inline block"><br/>
- <img alt="JAVA" src="https://i.imgur.com/9iLfySa.png" width="50px" height="50px"> 
-<img alt="SQL" src="https://i.imgur.com/25mmVek.png" width="50px" height="50px" margin-top:"15px">
-</div>
+
 
 #
 #
