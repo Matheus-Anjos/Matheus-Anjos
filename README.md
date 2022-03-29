@@ -21,7 +21,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Anjos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #
-### Ferramentas que uso no dia a dia
 #### My Skills
 
 <div style="display : inline block"><br/>
@@ -29,8 +28,8 @@
 <img align="center"alt="CSS3" src="https://i.imgur.com/E9Yh5Kl.png"  width="50px" height="50px" >
 <img align="center"alt="VBA" src="https://i.imgur.com/JRlJbE6.png" width="50px" height="50px"  >
 <img align="center" alt="Javascript" src="https://i.imgur.com/6QwTjRe.png"  width="50px" height="50px" >
- <img alt="JAVA" src="https://i.imgur.com/NrqjtVq.png" width="50px" height="35px"> 
-<img alt="SQL" src="https://i.imgur.com/25mmVek.png" width="50px" height="35px">
+ <img alt="JAVA" src="https://i.imgur.com/NrqjtVq.png" width="50px" height="50px" margin-top:"5px"> 
+<img alt="SQL" src="https://i.imgur.com/25mmVek.png" width="50px" height="50px" margin-top:"5px">
 </div>
 
 #
