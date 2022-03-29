@@ -7,9 +7,8 @@
 
 #
 #### Contact
-[![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusanjoslink)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/270476/matheus-anjos?tab=profile)
-<a href="mailto:matheus.mfa10@gmail.com?subject=Questions"> <img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:matheus.mfa10@gmail.com"></a>
+<a href="https://www.linkedin.com/in/matheusanjoslink"> <img  alt="Gmail" src="https://i.imgur.com/QfUJdBq.png" width="80px" height="80px"></a>
+<a href="mailto:matheus.mfa10@gmail.com?subject=Questions"> <img  alt="Gmail" src="https://i.imgur.com/2R7sjh9.png" width="80px" height="80px" href="mailto:matheus.mfa10@gmail.com"></a>
 
 
 #
