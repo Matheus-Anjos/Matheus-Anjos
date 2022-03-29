@@ -13,16 +13,14 @@
 
 
 #
-<div align="center">
 ![Matheus Anjos](https://github-readme-stats.vercel.app/api?username=Matheus-Anjos&show_icons=true&theme=synthwave)
- </div>
  <div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Anjos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  
 #
 #### My Skills
-<div style="display : inline block"><br/>
+<div style="display : inline block" align="center"><br/>
  <img align="center" alt="JAVA" src="https://i.imgur.com/ATuuUD7.png" width="80px" height="80px"> 
 <img align="center" alt="SQL" src="https://i.imgur.com/3nEdJE8.png" width="65px" height="65px">
  <img align="center" alt="VBA" src="https://i.imgur.com/yFvK0qu.png"  width="120px" height="80px">
