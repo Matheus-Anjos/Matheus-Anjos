@@ -35,5 +35,5 @@
 #
 ### Let's code
 <div align="center">
- <img align="center" alt="CAT CODING" src="https://i.imgur.com/gDsVqmh.gif" width="80px" height="80px"> 
+ <img align="center" alt="CAT CODING" src="https://i.imgur.com/gDsVqmh.gif" width="300px" height="300px"> 
 </div>
