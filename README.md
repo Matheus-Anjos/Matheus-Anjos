@@ -2,7 +2,9 @@
 ##### Hi, How are you? I´m Matheus Anjos
 
 
-[![Top Langs](https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)](https://giphy.com/embed/FcqKy4Kj7XOK0hCW4g)
+ <img align="center" alt="JAVA" src="
+https://i.imgur.com/Xsb9kQg.gifv" width="80px" height="80px"> 
+
 
 #
 ### Contato
