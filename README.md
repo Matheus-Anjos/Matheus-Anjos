@@ -13,7 +13,10 @@
 
 
 #
+<div align="center">
 ![Matheus Anjos](https://github-readme-stats.vercel.app/api?username=Matheus-Anjos&show_icons=true&theme=synthwave)
+ 
+ </div>
  
  <div align="center">
  
