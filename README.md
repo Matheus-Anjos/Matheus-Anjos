@@ -26,20 +26,14 @@
 
 <div style="display : inline block"><br/>
 <img align="center"alt="HTML5" src="https://i.imgur.com/s5fE2Lh.png" width="30px" height="30px">
-<img align="center"alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
-<img align="center"alt="VBA" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" >
-<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
+<img align="center"alt="CSS3" src="https://i.imgur.com/E9Yh5Kl.png"  width="30px" height="30px" >
+<img align="center"alt="VBA" src="https://i.imgur.com/JRlJbE6.png" width="30px" height="30px"  >
+<img align="center" alt="Javascript" src="https://i.imgur.com/6QwTjRe.png"  width="30px" height="30px" >
+ <img alt="JAVA" src="https://i.imgur.com/NrqjtVq.png" width="30px" height="30px"> 
+<img alt="SQL" src="https://i.imgur.com/25mmVek.png" width="30px" height="30px">
 </div>
 
 #
-### Aprendendo
-#### Learning
-
-<div style="display : inline block"><br/>
-<img alt="CSS3" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
-<img alt="CSS3" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-
 #
 ### Let's code
 [![Top Langs](https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)](https://github.com/anuraghazra/github-readme-stats)
