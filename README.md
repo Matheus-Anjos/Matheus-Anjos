@@ -25,12 +25,12 @@
 #### My Skills
 
 <div style="display : inline block"><br/>
-<img align="center"alt="HTML5" src="https://i.imgur.com/s5fE2Lh.png" width="30px" height="30px">
-<img align="center"alt="CSS3" src="https://i.imgur.com/E9Yh5Kl.png"  width="30px" height="30px" >
-<img align="center"alt="VBA" src="https://i.imgur.com/JRlJbE6.png" width="30px" height="30px"  >
-<img align="center" alt="Javascript" src="https://i.imgur.com/6QwTjRe.png"  width="30px" height="30px" >
- <img alt="JAVA" src="https://i.imgur.com/NrqjtVq.png" width="30px" height="30px"> 
-<img alt="SQL" src="https://i.imgur.com/25mmVek.png" width="30px" height="30px">
+<img align="center"alt="HTML5" src="https://i.imgur.com/s5fE2Lh.png" width="50px" height="50px">
+<img align="center"alt="CSS3" src="https://i.imgur.com/E9Yh5Kl.png"  width="50px" height="50px" >
+<img align="center"alt="VBA" src="https://i.imgur.com/JRlJbE6.png" width="50px" height="50px"  >
+<img align="center" alt="Javascript" src="https://i.imgur.com/6QwTjRe.png"  width="50px" height="50px" >
+ <img alt="JAVA" src="https://i.imgur.com/NrqjtVq.png" width="50px" height="60px"> 
+<img alt="SQL" src="https://i.imgur.com/25mmVek.png" width="50px" height="50px">
 </div>
 
 #
