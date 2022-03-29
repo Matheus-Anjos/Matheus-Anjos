@@ -34,4 +34,6 @@
 #
 #
 ### Let's code
+<div align="center">
 [![Top Langs](https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)](https://github.com/anuraghazra/github-readme-stats)
+</div>
