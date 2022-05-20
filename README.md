@@ -1,5 +1,7 @@
-###  Olá, como está ? Sou Matheus Anjos 😃🖐️
-##### Hi, How are you? I´m Matheus Anjos
+###  Hi, I'm Matheus Anjos 😃🖐️
+#### I finished a bootcamp at Generation Brazil
+#### I'm currently in a bootcamp at dio
+#### My skills are Java, Javascript, HTML, CSS, Excel(Macros and VBA) and SQL.
 
 <div align="center">
  <img align="center" alt="JAVA" src="https://i.imgur.com/Xsb9kQg.gif" width="700px" height="300px"> 
